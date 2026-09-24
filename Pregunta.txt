@@ -1,6 +1,0 @@
-CATEGORIA: Fundamentos tradicionales PMBOK
-Pregunta 1: ¿cual es la duracion maxima recomendada de un daily scrum?
-A)30minutos
-b)15minutos
-c)1hora
-D)Lo que decida el Product Owner
